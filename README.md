@@ -4,10 +4,10 @@
 Install
 This project requires Python and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-seaborn
+1>NumPy
+2>Pandas
+3>matplotlib
+4>seaborn
 
 
 
